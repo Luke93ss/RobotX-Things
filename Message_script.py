@@ -2,8 +2,8 @@
 Entrance and Exit Gates, Follow the Path, Wildlife Encounter, Scan the Code,
 Detect and Dock, Find and Fling, UAV Replenishment, and UAV Search and Report. """
 
-___author___ = "Lucas Schuurmans-Stekhoven"
-___email___ = "l.schuurmansstekhoven@uq.edu.au"
+___authors___ = "Ahmad Abu-Aysha & Lucas Schuurmans-Stekhoven"
+___email___ = "a.abuaysha@uq.net.au & l.schuurmansstekhoven@uq.edu.au"
 
 from datetime import datetime as dt
 import time as clock
